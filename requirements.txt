@@ -1,0 +1,9 @@
+langchain
+torch==2.1.0 
+sentence-transformers
+faiss-cpu
+transformers
+langchain_community
+streamlit
+sentencepiece
+numpy~=1.26.0
